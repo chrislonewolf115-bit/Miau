@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (por si se agregan herramientas)
+node_modules/
+
+# Editores / SO
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Exports sin renombrar que queden en la raíz por error
+/panel-ahorro-backup*.json
